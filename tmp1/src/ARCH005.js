@@ -14,4 +14,4 @@ console.log(getHeroesByOwner('Marvel'));
 console.log('-----')
 // console.log( getHeroById(2) ) // Spiderman
 
- console.log( getHeroesByOwnerx('Marvel') ) // []
+ console.log( getHeroesByOwnerx('Marvel') ) // [] 
